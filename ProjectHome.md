@@ -1,0 +1,1 @@
+A mobile device based application to provide all-in-one storage and tracking of a players poker information.
